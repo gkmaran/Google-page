@@ -1,0 +1,22 @@
+img{
+    width: 25%;
+    margin: auto;
+    margin-top: 11rem;
+}
+body{
+    text-align: center;
+}
+input{
+    width: 25%;
+    margin: 7px;
+    padding: 2px;
+    border: solid 1px;
+    border-radius: 2px;
+}
+button{
+    margin: 5px;
+    border: solid 1px;
+    border-radius: 2px;
+    padding: 2px;
+   
+}
